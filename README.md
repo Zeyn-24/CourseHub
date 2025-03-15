@@ -82,7 +82,7 @@ The CourseHub Platform is designed to provide a complete ecosystem for e-learnin
    # or
    pnpm install
 3. Run the project:
-  ```bash
+   ```bash
    npm run dev
    # or
    pnpm dev
